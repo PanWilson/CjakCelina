@@ -1,0 +1,4 @@
+﻿  Zad2.3.c
+e:\cjakgit\lista1\zad2.3\zad2.3.c(22): warning C4474: 'printf' : too many arguments passed for format string
+  e:\cjakgit\lista1\zad2.3\zad2.3.c(22): note: placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+  Zad2.3.vcxproj -> E:\CjakGit\Lista1\Debug\Zad2.3.exe
